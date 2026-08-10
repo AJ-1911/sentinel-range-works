@@ -16,7 +16,7 @@ Static, deployable Sentinel Range Works website rebuilt from the uploaded Aimgun
 - Business: **Sentinel Range Works**
 - Tagline: **Training • Range • Defense**
 - Primary brand red: `#ab0036`
-- Logo: `assets/img/srw-logo.png`
+- Web logo: `assets/img/srw-logo.svg`
 
 ## Before launch
 
@@ -50,4 +50,4 @@ Sentinel Range Works provides firearms training only and does not issue licenses
 
 ## Original template
 
-The uploaded source was an Elementor template kit. Its JSON files are not directly deployable from GitHub to Hostinger. A customized Elementor-source copy is included under `elementor-kit/` for reference or a future WordPress build, while the deployable site lives at the repository root.
+The uploaded source was an Elementor template kit. Its JSON files are not directly deployable from GitHub to Hostinger. The downloadable project package also includes a customized Elementor-source copy for reference or a future WordPress build. The GitHub deployment repository contains the static site needed by Hostinger.
